@@ -1,6 +1,6 @@
 Collection of tools to help coding python projects in  Geany IDE
 
-# Autocompletion
+# Autocompletition
 
 [geany-jedi-complete](https://github.com/notetau/geany-jedi-complete)
 
